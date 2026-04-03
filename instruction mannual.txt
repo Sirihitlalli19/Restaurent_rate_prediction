@@ -1,0 +1,26 @@
+# Restaurant Rating Prediction
+
+## 📌 Project Summary
+This project predicts restaurant ratings using Machine Learning models.  
+It uses the dataset stored in **data/restaurant_data.csv** and generates the output plot in **output/Actual vs Predicted.png**.
+
+## 📂 Folder Structure
+- **data/** → contains dataset (`restaurant_data.csv`)
+- **code/** → contains main Python script (`main.py`)
+- **output/** → contains results (`Actual vs Predicted.png`)
+
+## 🚀 How to Run
+1. Install Python 3.11 (recommended).
+2. Open terminal/command prompt inside the project folder.
+3. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+4. python code/main.py 
+
+Output 
+After running you will get the result in:
+    Actual vs Predicted.png
+    
+Author:
+    Siri Ramesh Hitlalli
+    Email:siriramesh83@gmail.com
